@@ -1,0 +1,82 @@
+.top{
+    background-color: rgb(244, 213, 12);
+    padding: 15px;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+.top a{
+    text-decoration: none;
+    padding: 15px;
+    margin-left: 225px;
+    color: black;
+    
+}
+.top a:hover{
+    background-color: rgb(12, 11, 2);
+    color: white;
+}
+
+.imge{
+    height: 205px;
+    border-radius: 100px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    -ms-border-radius: 100px;
+    -o-border-radius: 100px;
+    
+}
+
+.contact{
+    border: 1px solid red;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+.contact a{
+    text-decoration: none;
+}
+
+.skill{
+    height:15px;
+}
+
+.imgee{
+    height: 75px;
+    border-radius: 100px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    -ms-border-radius: 100px;
+    -o-border-radius: 100px;
+    padding: 27px;
+    
+}
+th , td, tr {
+    padding: 25px;
+    width: 100vw;
+    
+}
+table{
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+body{
+    border: 5px solid black;
+}
+
+*{
+    
+    padding: 5px;
+}
+
